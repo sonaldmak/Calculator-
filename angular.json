@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "CalculatorApp"
+    }
+  },
+  "defaultProject": "CalculatorApp",
+  "cli": {
+    "analytics": false
+  }
 }
